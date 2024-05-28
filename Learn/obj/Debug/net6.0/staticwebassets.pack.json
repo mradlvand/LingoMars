@@ -1,2111 +1,2103 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Learn.bundle.scp.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Learn.bundle.scp.css",
       "PackagePath": "staticwebassets\\Learn.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\ckeditor.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\ckeditor.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\ckeditor.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\ckeditor.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\ckeditor.js.map",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\ckeditor.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\af.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\af.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\af.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ar.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ar.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ar.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ast.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ast.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ast.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\az.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\az.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\az.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bg.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bg.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\bg.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bn.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\bn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bs.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\bs.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\bs.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ca.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ca.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ca.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\cs.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\cs.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\cs.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\da.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\da.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\da.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\de-ch.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\de-ch.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\de-ch.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\de.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\de.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\de.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\el.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\el.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\el.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\en-au.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\en-au.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\en-au.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\en-gb.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\en-gb.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\en-gb.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\eo.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\eo.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\eo.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\es-co.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\es-co.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\es-co.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\es.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\es.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\es.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\et.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\et.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\et.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\eu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\eu.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\eu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fa.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fa.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\fa.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fi.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\fi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\fr.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\fr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\gl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\gl.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\gl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\gu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\gu.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\gu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\he.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\he.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\he.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hi.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\hi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hr.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\hr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hu.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\hu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hy.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\hy.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\hy.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\id.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\id.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\id.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\it.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\it.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\it.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ja.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ja.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ja.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\jv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\jv.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\jv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\km.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\km.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\km.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\kn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\kn.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\kn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ko.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ko.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ko.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ku.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ku.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ku.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\lt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\lt.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\lt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\lv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\lv.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\lv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ms.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ms.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ms.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\nb.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\nb.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\nb.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ne.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ne.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ne.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\nl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\nl.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\nl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\no.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\no.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\no.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\oc.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\oc.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\oc.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pl.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\pl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pt-br.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pt-br.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\pt-br.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\pt.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\pt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ro.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ro.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ro.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ru.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ru.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ru.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\si.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\si.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\si.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sk.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sl.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sq.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sq.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sq.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sr-latn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sr-latn.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sr-latn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sr.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\sv.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\sv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\th.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\th.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\th.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ti.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ti.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ti.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tk.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\tk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tr.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\tr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\tt.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\tt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ug.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ug.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ug.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\uk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\uk.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\uk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ur.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\ur.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\ur.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\uz.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\uz.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\uz.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\vi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\vi.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\vi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\zh-cn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\zh-cn.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\zh-cn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\CKEditor\\translations\\zh.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\CKEditor\\translations\\zh.js",
       "PackagePath": "staticwebassets\\assets\\CKEditor\\translations\\zh.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\ckeditor.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\ckeditor.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\ckeditor.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\ckeditor.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\ckeditor.js.map",
       "PackagePath": "staticwebassets\\assets\\New folder\\ckeditor.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\af.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\af.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\af.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ar.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ar.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ar.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ast.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ast.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ast.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\az.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\az.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\az.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\bg.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\bg.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\bg.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\bn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\bn.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\bn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\bs.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\bs.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\bs.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ca.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ca.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ca.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\cs.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\cs.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\cs.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\da.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\da.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\da.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\de-ch.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\de-ch.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\de-ch.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\de.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\de.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\de.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\el.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\el.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\el.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\en-au.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\en-au.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\en-au.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\en-gb.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\en-gb.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\en-gb.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\eo.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\eo.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\eo.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\es-co.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\es-co.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\es-co.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\es.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\es.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\es.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\et.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\et.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\et.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\eu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\eu.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\eu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\fa.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\fa.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\fa.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\fi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\fi.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\fi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\fr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\fr.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\fr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\gl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\gl.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\gl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\gu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\gu.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\gu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\he.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\he.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\he.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\hi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\hi.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\hi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\hr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\hr.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\hr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\hu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\hu.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\hu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\hy.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\hy.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\hy.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\id.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\id.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\id.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\it.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\it.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\it.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ja.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ja.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ja.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\jv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\jv.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\jv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\km.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\km.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\km.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\kn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\kn.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\kn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ko.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ko.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ko.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ku.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ku.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ku.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\lt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\lt.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\lt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\lv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\lv.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\lv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ms.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ms.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ms.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\nb.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\nb.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\nb.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ne.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ne.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ne.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\nl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\nl.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\nl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\no.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\no.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\no.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\oc.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\oc.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\oc.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\pl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\pl.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\pl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\pt-br.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\pt-br.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\pt-br.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\pt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\pt.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\pt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ro.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ro.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ro.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ru.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ru.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ru.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\si.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\si.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\si.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sk.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sl.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sl.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sl.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sq.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sq.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sq.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sr-latn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sr-latn.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sr-latn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sr.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\sv.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\sv.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\sv.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\th.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\th.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\th.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ti.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ti.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ti.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\tk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\tk.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\tk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\tr.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\tr.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\tr.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\tt.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\tt.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\tt.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ug.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ug.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ug.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\uk.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\uk.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\uk.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\ur.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\ur.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\ur.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\uz.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\uz.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\uz.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\vi.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\vi.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\vi.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\zh-cn.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\zh-cn.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\zh-cn.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\New folder\\translations\\zh.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\New folder\\translations\\zh.js",
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\zh.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\big\\Thumbs.db",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\big\\Thumbs.db",
       "PackagePath": "staticwebassets\\assets\\images\\big\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\big\\img1.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\big\\img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\big\\img1.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\custom-select.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\custom-select.png",
       "PackagePath": "staticwebassets\\assets\\images\\custom-select.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\favicon.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\logo-icon.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\logo-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\logo-light-icon.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\logo-light-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-light-icon.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\logo-light-text.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\logo-light-text.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-light-text.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\logo-text.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\logo-text.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-text.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\1.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\2.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\3.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\4.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\5.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\6.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\7.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\8.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\images\\users\\images.jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\users\\images.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\users\\images.jpg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\bower.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\bower.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\bower.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\c3.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\c3.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\c3.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\c3.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\c3.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\c3.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\component.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\component.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\component.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\c3.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\c3.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\c3.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\index.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\index.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\extensions\\chart-bubble\\index.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\exporter\\config.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\exporter\\config.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\extensions\\exporter\\config.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\exporter\\test.png",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\extensions\\exporter\\test.png",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\extensions\\exporter\\test.png"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\bootstrap.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\c3.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\c3.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\css\\c3.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\index.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\index.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\css\\index.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\style.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_2.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_2.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_2.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_3.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_3.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\data\\c3_test_3.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\index.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\index.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\index.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_label.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_label.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_label.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_range.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_range.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_axis_range.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_category.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_category.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_category.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_data_colors.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_data_colors.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_data_colors.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_flow_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_legend.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_legend.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_legend.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_tooltip_show.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_tooltip_show.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_tooltip_show.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_transform.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_transform.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_transform.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_xgrid_lines.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_xgrid_lines.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_xgrid_lines.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_ygrid_lines.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_ygrid_lines.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\api_ygrid_lines.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\area_zerobased.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\area_zerobased.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\area_zerobased.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_padding.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_padding.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_padding.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_range.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_range.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_range.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_extent.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_extent.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_extent.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_localtime.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_localtime.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_localtime.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_range_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_range_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_range_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_culling.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_culling.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_culling.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_fit.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_fit.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_fit.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_rotate.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_rotate.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_rotate.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_values.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_values.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_x_tick_values.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y2.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y2.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y2.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y_default.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y_default.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\axes_y_default.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\bar_zerobased.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\bar_zerobased.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\bar_zerobased.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\bindto.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\bindto.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\bindto.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\categorized.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\categorized.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\categorized.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline_stacked.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline_stacked.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_spline_stacked.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_stacked.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_stacked.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_stacked.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step_stacked.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step_stacked.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_area_step_stacked.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_space.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_space.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_space.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_stacked.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_stacked.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_bar_stacked.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_combination.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_combination.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_combination.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_donut.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_donut.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_donut.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_gauge.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_gauge.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_gauge.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie_sort.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie_sort.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_pie_sort.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_scatter.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_scatter.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_scatter.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_spline.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_spline.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_spline.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step_category.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step_category.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\chart_step_category.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_categorized.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_categorized.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_categorized.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_scale.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_scale.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_x_scale.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_xs_scale.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_xs_scale.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\custom_xs_scale.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_columned.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_columned.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_columned.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_hide.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_hide.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_hide.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_json.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_json.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_json.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label_format.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label_format.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_label_format.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_load_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_region_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_rowed.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_rowed.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_rowed.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_url.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_url.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\data_url.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\different_category_datasets.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\different_category_datasets.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\different_category_datasets.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\domain_y.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\domain_y.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\domain_y.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\element.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\element.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\element.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\emptydata.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\emptydata.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\emptydata.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_focus.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_focus.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_focus.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\grid_x_lines_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\grids_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\interaction_enabled.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\interaction_enabled.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\interaction_enabled.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\legend.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\legend.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\legend.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding_update.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding_update.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\padding_update.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\plugin.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\plugin.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\plugin.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_r.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_r.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_r.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_show.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_show.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\point_show.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions_timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions_timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\regions_timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\requirejs.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\requirejs.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\requirejs.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\selection.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\selection.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\selection.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\simple.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\simple.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\simple.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart_onbrush.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart_onbrush.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\subchart_onbrush.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_date.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_date.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_date.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_descendent.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_descendent.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_descendent.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_raw.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_raw.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\timeseries_raw.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_grouped.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_grouped.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_grouped.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_show.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_show.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\tooltip_show.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_category.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_category.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_category.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_onzoom.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_onzoom.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_onzoom.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_reduction.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_reduction.html",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\htdocs\\samples\\zoom_reduction.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\package-lock.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\package-lock.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\package-lock.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\package.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\c3-master\\package.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\c3-master\\package.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.min.css",
       "PackagePath": "staticwebassets\\assets\\node_modules\\perfect-scrollbar\\css\\perfect-scrollbar.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\raphael\\.bower.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\raphael\\.bower.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\raphael\\.bower.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\raphael\\bower.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\raphael\\bower.json",
       "PackagePath": "staticwebassets\\assets\\node_modules\\raphael\\bower.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\node_modules\\raphael\\license.txt",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\node_modules\\raphael\\license.txt",
       "PackagePath": "staticwebassets\\assets\\node_modules\\raphael\\license.txt"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\assets\\package.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\package.json",
       "PackagePath": "staticwebassets\\assets\\package.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\animate.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\colors\\default.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\colors\\default.css",
       "PackagePath": "staticwebassets\\css\\colors\\default.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\icons\\font-awesome\\css\\font-awesome.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\icons\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\icons\\font-awesome\\old\\css\\font-awesome.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\icons\\font-awesome\\old\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\old\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\output.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\output.css",
       "PackagePath": "staticwebassets\\css\\output.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\bootstrap-switch.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\bootstrap-switch.css",
       "PackagePath": "staticwebassets\\css\\pages\\bootstrap-switch.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\breadcrumb-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\breadcrumb-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\breadcrumb-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\card-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\card-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\card-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\chat-app-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\chat-app-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\chat-app-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\common.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\common.css",
       "PackagePath": "staticwebassets\\css\\pages\\common.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\contact-app-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\contact-app-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\contact-app-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\dashboard1.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\dashboard1.css",
       "PackagePath": "staticwebassets\\css\\pages\\dashboard1.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\easy-pie-chart.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\easy-pie-chart.css",
       "PackagePath": "staticwebassets\\css\\pages\\easy-pie-chart.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\error-pages.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\error-pages.css",
       "PackagePath": "staticwebassets\\css\\pages\\error-pages.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\file-upload.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\file-upload.css",
       "PackagePath": "staticwebassets\\css\\pages\\file-upload.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\float-chart.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\float-chart.css",
       "PackagePath": "staticwebassets\\css\\pages\\float-chart.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\floating-label.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\floating-label.css",
       "PackagePath": "staticwebassets\\css\\pages\\floating-label.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\footable-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\footable-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\footable-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\form-icheck.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\form-icheck.css",
       "PackagePath": "staticwebassets\\css\\pages\\form-icheck.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\form-pages.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\form-pages.css",
       "PackagePath": "staticwebassets\\css\\pages\\form-pages.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\google-vector-map.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\google-vector-map.css",
       "PackagePath": "staticwebassets\\css\\pages\\google-vector-map.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\icon-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\icon-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\icon-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\inbox.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\inbox.css",
       "PackagePath": "staticwebassets\\css\\pages\\inbox.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\login-register-lock.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\login-register-lock.css",
       "PackagePath": "staticwebassets\\css\\pages\\login-register-lock.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\other-pages.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\other-pages.css",
       "PackagePath": "staticwebassets\\css\\pages\\other-pages.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\pages.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\pages.css",
       "PackagePath": "staticwebassets\\css\\pages\\pages.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\pagination.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\pagination.css",
       "PackagePath": "staticwebassets\\css\\pages\\pagination.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\perfect-scrollbar.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\css\\pages\\perfect-scrollbar.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\pricing-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\pricing-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\pricing-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\progressbar-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\progressbar-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\progressbar-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\ribbon-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\ribbon-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\ribbon-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\stylish-tooltip.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\stylish-tooltip.css",
       "PackagePath": "staticwebassets\\css\\pages\\stylish-tooltip.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\tab-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\tab-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\tab-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\table-pages.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\table-pages.css",
       "PackagePath": "staticwebassets\\css\\pages\\table-pages.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\timeline-vertical-horizontal.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\timeline-vertical-horizontal.css",
       "PackagePath": "staticwebassets\\css\\pages\\timeline-vertical-horizontal.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\ui-bootstrap-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\ui-bootstrap-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\ui-bootstrap-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\user-card.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\user-card.css",
       "PackagePath": "staticwebassets\\css\\pages\\user-card.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\pages\\widget-page.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\pages\\widget-page.css",
       "PackagePath": "staticwebassets\\css\\pages\\widget-page.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\site.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\spinners.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\spinners.css",
       "PackagePath": "staticwebassets\\css\\spinners.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\css\\style.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\favicon.ico",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\CHANGELOG.md",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\fonts\\CHANGELOG.md"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\LICENSE",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\LICENSE",
       "PackagePath": "staticwebassets\\fonts"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\README.md",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\README.md",
       "PackagePath": "staticwebassets\\fonts\\README.md"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Bold.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Bold.eot",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Bold.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Bold.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Bold.woff",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Bold.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Bold.woff2",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Light.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Light.eot",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Light.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Light.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Light.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Light.woff",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Light.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Light.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Light.woff2",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Light.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Medium.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Medium.eot",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Medium.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Medium.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Medium.woff",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Medium.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Medium.woff2",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Thin.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Thin.eot",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Thin.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Thin.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Thin.woff",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir-Thin.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir-Thin.woff2",
       "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir.eot",
       "PackagePath": "staticwebassets\\fonts\\Vazir.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir.ttf",
       "PackagePath": "staticwebassets\\fonts\\Vazir.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir.woff",
       "PackagePath": "staticwebassets\\fonts\\Vazir.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\fonts\\Vazir.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\fonts\\Vazir.woff2",
       "PackagePath": "staticwebassets\\fonts\\Vazir.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\images\\1e441f88-7938-4296-abf3-f920660c6c0a.mp4",
-      "PackagePath": "staticwebassets\\images\\1e441f88-7938-4296-abf3-f920660c6c0a.mp4"
-    },
-    {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\images\\b939d444-acc8-47d0-ba94-e28f4f1749e6.zip",
-      "PackagePath": "staticwebassets\\images\\b939d444-acc8-47d0-ba94-e28f4f1749e6.zip"
-    },
-    {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\CKeditor.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\CKeditor.js",
       "PackagePath": "staticwebassets\\js\\CKeditor.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\custom.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\custom.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\custom.min.js",
       "PackagePath": "staticwebassets\\js\\custom.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\dashboard1.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\dashboard1.js",
       "PackagePath": "staticwebassets\\js\\dashboard1.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\flot-data.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\flot-data.js",
       "PackagePath": "staticwebassets\\js\\flot-data.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\jquery.slimscroll.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\jquery.slimscroll.js",
       "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\perfect-scrollbar.jquery.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\perfect-scrollbar.jquery.min.js",
       "PackagePath": "staticwebassets\\js\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\prepros-6.config",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\prepros-6.config",
       "PackagePath": "staticwebassets\\js\\prepros-6.config"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\sidebarmenu.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\sidebarmenu.js",
       "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\site.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\js\\waves.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\js\\waves.js",
       "PackagePath": "staticwebassets\\js\\waves.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\main\\index.html",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\main\\index.html",
       "PackagePath": "staticwebassets\\main\\index.html"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\app.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\app.scss",
       "PackagePath": "staticwebassets\\scss\\app.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\colors\\default.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\colors\\default.scss",
       "PackagePath": "staticwebassets\\scss\\colors\\default.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\grid.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\grid.scss",
       "PackagePath": "staticwebassets\\scss\\grid.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\animated.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\animated.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\animated.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\bordered-pulled.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\core.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\fixed-width.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\font-awesome.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\icons.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\larger.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\larger.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\list.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\list.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\mixins.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\path.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\rotated-flipped.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\screen-reader.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\screen-reader.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\stacked.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\stacked.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\variables.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.bower.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.bower.json",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.bower.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.gitignore",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.gitignore",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.npmignore",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\.npmignore",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.npmignore"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\HELP-US-OUT.txt",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\HELP-US-OUT.txt"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\bower.json",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\bower.json",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\bower.json"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.min.css",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont-old.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont-old.ttf",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont-old.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\animated.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\animated.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\animated.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\bordered-pulled.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\core.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\core.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\extras.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\extras.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\extras.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\fixed-width.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\font-awesome.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\icons.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\icons.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\larger.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\larger.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\list.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\list.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\mixins.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\mixins.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\path.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\path.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\rotated-flipped.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\spinning.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\spinning.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\spinning.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\stacked.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\stacked.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\variables.less",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\variables.less",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_animated.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_bordered-pulled.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_core.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_extras.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_extras.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_extras.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_fixed-width.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_icons.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_larger.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_list.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_mixins.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_path.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_rotated-flipped.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_spinning.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_spinning.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_spinning.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_stacked.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_variables.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\font-awesome.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_animated.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_core.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_icons.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_larger.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_list.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_mixins.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_path.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_stacked.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_variables.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\icons\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\bootstrap-switch.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\bootstrap-switch.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\bootstrap-switch.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\breadcrumb-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\breadcrumb-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\breadcrumb-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\button-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\button-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\button-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\card-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\card-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\card-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\chat-app-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\chat-app-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\chat-app-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\common.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\common.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\common.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\contact-app-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\contact-app-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\contact-app-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\dashboard1.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\dashboard1.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\dashboard1.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\easy-pie-chart.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\easy-pie-chart.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\easy-pie-chart.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\error-pages.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\error-pages.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\error-pages.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\file-upload.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\file-upload.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\file-upload.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\float-chart.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\float-chart.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\float-chart.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\floating-label.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\floating-label.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\floating-label.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\footable-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\footable-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\footable-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\form-icheck.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\form-icheck.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\form-icheck.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\form-pages.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\form-pages.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\form-pages.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\google-vector-map.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\google-vector-map.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\google-vector-map.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\icon-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\icon-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\icon-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\other-pages.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\other-pages.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\other-pages.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\pages.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\pages.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\pages.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\pagination.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\pagination.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\pagination.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\perfect-scrollbar.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\perfect-scrollbar.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\pricing-page.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\pricing-page.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\pricing-page.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\stylish-tooltip.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\stylish-tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\stylish-tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\pages\\table-pages.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\pages\\table-pages.scss",
       "PackagePath": "staticwebassets\\scss\\pages\\table-pages.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\prepros-6.config",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\prepros-6.config",
       "PackagePath": "staticwebassets\\scss\\prepros-6.config"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\responsive.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\responsive.scss",
       "PackagePath": "staticwebassets\\scss\\responsive.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\sidebar.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\sidebar.scss",
       "PackagePath": "staticwebassets\\scss\\sidebar.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\style.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\variable.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\variable.scss",
       "PackagePath": "staticwebassets\\scss\\variable.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\activity.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\activity.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\activity.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\blog.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\blog.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\blog.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\calendar.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\calendar.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\calendar.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\carousel.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\carousel.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\carousel.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\chat-widget.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\chat-widget.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\chat-widget.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\comment.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\comment.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\comment.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\common-widget.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\common-widget.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\common-widget.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\contact.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\contact.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\contact.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\feed.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\feed.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\feed.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\msg-box.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\msg-box.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\msg-box.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\product-review.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\product-review.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\product-review.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\profile.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\profile.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\profile.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\social.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\social.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\social.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\steamline.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\steamline.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\steamline.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\to-do.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\to-do.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\to-do.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\topbar-mail.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\topbar-mail.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\topbar-mail.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\weather-widget.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\weather-widget.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\weather-widget.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\scss\\widgets\\widgets.scss",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\scss\\widgets\\widgets.scss",
       "PackagePath": "staticwebassets\\scss\\widgets\\widgets.scss"
     },
     {
-      "Id": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\wwwroot\\upload\\download (1).jpg",
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\upload\\download (1).jpg",
       "PackagePath": "staticwebassets\\upload\\download (1).jpg"
     },
     {

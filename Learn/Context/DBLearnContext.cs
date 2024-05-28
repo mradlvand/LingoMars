@@ -19,6 +19,7 @@ namespace Learn.Context
         public DbSet<Grammer> Grammers { get; set; }
         public DbSet<User> Users { get; set; }
 
+        public DbSet<Model.Models.Exercise>? Exercise { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configuration = new ConfigurationBuilder()
@@ -53,7 +54,7 @@ namespace Learn.Context
                 .HasDefaultValueSql("getdate()");
         }
 
-        public DbSet<Model.Models.Exercise>? Exercise { get; set; }
+       
 
     }
 }

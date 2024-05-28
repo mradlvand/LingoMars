@@ -9,7 +9,7 @@ namespace Model.General
         None = 0,
         English = 1,
         Japanese = 2,
-        German = 3,
+        Germany = 3,
         Matematic = 4,
     }
 }
