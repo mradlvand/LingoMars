@@ -1,0 +1,346 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap.css" />
+    <Content Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap.min.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\bower.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\c3.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\c3.min.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\component.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\extensions\chart-bubble\c3.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\extensions\chart-bubble\index.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\extensions\exporter\config.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\extensions\exporter\test.png" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\css\bootstrap.min.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\css\c3.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\css\index.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\css\style.css" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test_2.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test_3.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\index.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_axis_label.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_axis_range.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_category.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_data_colors.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_flow.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_flow_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_legend.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_tooltip_show.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_transform.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_xgrid_lines.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\api_ygrid_lines.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\area_zerobased.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_padding.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_range.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_extent.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_localtime.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_range_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_tick_culling.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_tick_fit.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_tick_rotate.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_x_tick_values.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_y2.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\axes_y_default.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\bar_zerobased.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\bindto.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\categorized.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area_spline.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area_spline_stacked.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area_stacked.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area_step.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_area_step_stacked.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_bar.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_bar_space.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_bar_stacked.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_combination.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_donut.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_gauge.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_pie.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_pie_sort.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_scatter.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_spline.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_step.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\chart_step_category.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\custom_xs_scale.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\custom_x_categorized.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\custom_x_scale.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_columned.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_hide.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_json.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_label.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_label_format.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_load.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_load_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_region.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_region_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_rowed.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\data_url.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\different_category_datasets.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\domain_y.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\element.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\emptydata.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\grids.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\grids_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\grid_focus.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\grid_x_lines.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\grid_x_lines_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\interaction_enabled.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\legend.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\padding.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\padding_update.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\plugin.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\point_r.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\point_show.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\regions.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\regions_timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\requirejs.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\selection.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\simple.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\subchart.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\subchart_onbrush.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\timeseries.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\timeseries_date.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\timeseries_descendent.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\timeseries_raw.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\tooltip_grouped.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\tooltip_show.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\zoom.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\zoom_category.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\zoom_onzoom.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\htdocs\samples\zoom_reduction.html" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\package-lock.json" />
+    <Content Include="wwwroot\assets\node_modules\c3-master\package.json" />
+    <Content Include="wwwroot\assets\node_modules\perfect-scrollbar\css\perfect-scrollbar.css" />
+    <Content Include="wwwroot\assets\node_modules\perfect-scrollbar\css\perfect-scrollbar.min.css" />
+    <Content Include="wwwroot\assets\node_modules\raphael\.bower.json" />
+    <Content Include="wwwroot\assets\node_modules\raphael\bower.json" />
+    <Content Include="wwwroot\assets\node_modules\raphael\license.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\js\popper.min.js" />
+    <None Include="wwwroot\assets\node_modules\bootstrap\js\popper.min.js.map" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.bmp.yml" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.circleci\config.yml" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.editorconfig" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.github\ISSUE_TEMPLATE.md" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.gitignore" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.jshintrc" />
+    <None Include="wwwroot\assets\node_modules\c3-master\.travis.yml" />
+    <None Include="wwwroot\assets\node_modules\c3-master\c3.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\c3.min.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\codecov.yml" />
+    <None Include="wwwroot\assets\node_modules\c3-master\CONTRIBUTING.md" />
+    <None Include="wwwroot\assets\node_modules\c3-master\extensions\chart-bubble\bubble.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\extensions\chart-bubble\c3.min.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\extensions\exporter\phantom-exporter.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\extensions\js\c3ext.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test.csv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test.tsv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test2.csv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test2_ts.csv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test3.csv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\data\c3_test_ts.csv" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\c3.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\c3.min.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\extensions" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\require.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\samples\plugin.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\samples\requirejs.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\htdocs\js\samples\zoom_reduction.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\karma.conf.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\LICENSE" />
+    <None Include="wwwroot\assets\node_modules\c3-master\README.md" />
+    <None Include="wwwroot\assets\node_modules\c3-master\rollup.config.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.axis-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.data-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.focus-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.grid-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.load-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.region-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\api.zoom-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\arc-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\axis-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\c3-helper.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\c3-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\class-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\core-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\data-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\data.convert.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\domain-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\grid-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\interaction-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\legend-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\shape.bar-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\shape.line-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\svg-helper.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\title-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\tooltip-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\type-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\spec\zoom-spec.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.axis.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.category.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.chart.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.color.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.data.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.flow.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.focus.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.grid.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.group.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.legend.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.load.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.region.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.selection.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.show.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.tooltip.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.transform.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.x.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\api.zoom.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\arc.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\axis.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\cache.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\category.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\class-utils.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\class.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\clip.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\color.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\config.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\core.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\data.convert.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\data.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\data.load.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\domain.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\drag.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\format.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\grid.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\index.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\interaction.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\legend.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\polyfill.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\region.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scale.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\arc.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\area.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\axis.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\bar.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\brush.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\chart.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\focus.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\grid.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\legend.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\line.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\main.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\point.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\region.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\select_drag.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\text.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\title.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\scss\tooltip.scss" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\selection.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\shape.bar.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\shape.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\shape.line.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\size.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\subchart.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\text.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\title.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\tooltip.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\type.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\ua.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\util.js" />
+    <None Include="wwwroot\assets\node_modules\c3-master\src\zoom.js" />
+    <None Include="wwwroot\assets\node_modules\d3\API.md" />
+    <None Include="wwwroot\assets\node_modules\d3\CHANGES.md" />
+    <None Include="wwwroot\assets\node_modules\d3\d3.js" />
+    <None Include="wwwroot\assets\node_modules\d3\d3.min-v4.js" />
+    <None Include="wwwroot\assets\node_modules\d3\d3.min.js" />
+    <None Include="wwwroot\assets\node_modules\d3\LICENSE" />
+    <None Include="wwwroot\assets\node_modules\d3\README.md" />
+    <None Include="wwwroot\assets\node_modules\gmaps\gmaps.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\gmaps.min.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\gmaps.min.js.map" />
+    <None Include="wwwroot\assets\node_modules\gmaps\jquery.gmaps.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.controls.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.core.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.events.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.geofences.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.geometry.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.layers.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.map_types.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.markers.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.native_extensions.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.overlays.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.routes.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.static.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.streetview.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.styles.js" />
+    <None Include="wwwroot\assets\node_modules\gmaps\lib\gmaps.utils.js" />
+    <None Include="wwwroot\assets\node_modules\jquery\jquery.min.js" />
+    <None Include="wwwroot\assets\node_modules\peity\jquery.peity.init.js" />
+    <None Include="wwwroot\assets\node_modules\peity\jquery.peity.min.js" />
+    <None Include="wwwroot\assets\node_modules\perfect-scrollbar\js\perfect-scrollbar.jquery.js" />
+    <None Include="wwwroot\assets\node_modules\perfect-scrollbar\js\perfect-scrollbar.jquery.min.js" />
+    <None Include="wwwroot\assets\node_modules\perfect-scrollbar\js\perfect-scrollbar.js" />
+    <None Include="wwwroot\assets\node_modules\perfect-scrollbar\js\perfect-scrollbar.min.js" />
+    <None Include="wwwroot\assets\node_modules\raphael\dev\amdDev.js" />
+    <None Include="wwwroot\assets\node_modules\raphael\dev\index.js" />
+    <None Include="wwwroot\assets\node_modules\raphael\dev\require.js" />
+    <None Include="wwwroot\assets\node_modules\raphael\raphael-min.js" />
+    <None Include="wwwroot\assets\node_modules\raphael\raphael.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.29">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.29">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\Level\" />
+    <Folder Include="Files\Lesson\" />
+    <Folder Include="Files\Grammer\" />
+    <Folder Include="Files\Exercise\" />
+    <Folder Include="Files\Speaking\" />
+    <Folder Include="Files\Vocab\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="wwwroot\assets\CKEditor\" />
+    <Folder Include="wwwroot\images\levelsFile\" />
+    <Folder Include="wwwroot\upload\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Model.Models.Exercise>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="row">
+    <a type="button" asp-action="Create" asp-route-pageName="Placement" class="btn btn-primary">Placement</a>
+    <a type="button" asp-action="Create" asp-route-pageName="Detect" class="btn btn-secondary">Detect</a>
+    <a type="button" asp-action="Create" asp-route-pageName="CP" class="btn btn-success">Context Placement</a>
+    <a type="button" asp-action="Create" asp-route-pageName="Order" class="btn btn-info">Order</a>
+    <a type="button" asp-action="Create" asp-route-pageName="TrueFalse" class="btn btn-warning">Listening TrueFalse</a>
+    <a type="button" asp-action="Create" asp-route-pageName="Multiple" class="btn btn-danger">Listening Multiple</a>
+    @* <a type="button" asp-action="Create" asp-route-pageName="DragDrop" class="btn btn-dark">DragDrop</a> *@
+    <a type="button" asp-action="Create" asp-route-pageName="TextAi" class="btn btn-info">Ai Context</a>
+    <a type="button" asp-action="Create" asp-route-pageName="VoiceAi" class="btn btn-warning">Ai Voice</a>
+    <a type="button" asp-action="Create" asp-route-pageName="ContentAi" class="btn btn-danger">Ai Content</a>
+    <a type="button" asp-action="Create" asp-route-pageName="LetterAi" class="btn btn-dark">Ai Letter</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContentType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContentType)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

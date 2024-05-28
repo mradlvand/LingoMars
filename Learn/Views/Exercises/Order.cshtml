@@ -1,0 +1,131 @@
+﻿@model Learn.Models.ViewModels.ExerciseModel.ExerciseViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Exercise</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Exercise.ContentType" class="control-label"></label>
+                <select id="ContentType" asp-for="Exercise.ContentType" class="form-control">
+                    @foreach (var item in Model.ContentTypes)
+                    {
+                        <option>@item</option>
+                    }
+                </select>
+                <span asp-validation-for="Exercise.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Exercise.LessonId" class="control-label"></label>
+                <select asp-for="Exercise.LessonId" id="LessonId" class="form-control" asp-items="Model.Lessons"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" id="btnSave" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <table style="border:2px solid black;padding:5px" id="tblCustomers" class="table" cellpadding="0" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Sample (Enter the correct order.)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td><input type="text" id="txtName" class="form-control" /></td>
+                    <td><input type="button" id="btnAdd" value="Add Sample" class="btn btn-primary" /></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+@* 
+<div>
+    <a asp-action="Index">Back to List</a>
+</div> *@
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+<script type="text/javascript">
+    $("body").on("click", "#btnAdd", function () {
+        //Reference the Name and Country TextBoxes.
+        var txtName = $("#txtName");
+
+        //Get the reference of the Table's TBODY element.
+        var tBody = $("#tblCustomers > TBODY")[0];
+
+        //Add Row.
+        var row = tBody.insertRow(-1);
+
+        //Add Name cell.
+        var cell = $(row.insertCell(-1));
+        cell.html(txtName.val());
+
+        //Add Button cell.
+        cell = $(row.insertCell(-1));
+        var btnRemove = $("<input />");
+        btnRemove.attr("type", "button");
+        btnRemove.attr("class", "btn btn-danger");
+        btnRemove.attr("onclick", "Remove(this);");
+        btnRemove.val("Remove");
+        cell.append(btnRemove);
+
+        //Clear the TextBoxes.
+        txtName.val("");
+    });
+
+    function Remove(button) {
+        //Determine the reference of the Row using the Button.
+        var row = $(button).closest("TR");
+        var name = $("TD", row).eq(0).html();
+        if (confirm("Do you want to delete: " + name)) {
+            //Get the reference of the Table.
+            var table = $("#tblCustomers")[0];
+
+            //Delete the Table row using it's Index.
+            table.deleteRow(row[0].rowIndex);
+        }
+    };
+
+    $("body").on("click", "#btnSave", function () {
+        var OrderStrings = new Array();
+        var order = 1;
+        $("#tblCustomers TBODY TR").each(function () {
+            var row = $(this);
+            var Sample = {};
+            Sample.Sentence = row.find("TD").eq(0).html();
+            Sample.Order = order;
+            OrderStrings.push(Sample);
+
+            order++;
+        });
+
+        var ExerciseModel = {
+            Type: 'Order',
+            ContentType: $('#ContentType').find(":selected").val(),
+            LessonId: $('#LessonId').find(":selected").val(),
+            ModelContent: JSON.stringify(OrderStrings)
+        }
+
+        //Send the JSON array to Controller using AJAX.
+        $.ajax({
+            type: 'POST',
+            url: '@Model.BaseUrl/Exercises/Create',
+            data: { model: ExerciseModel },
+            success: function (r) {
+                alert("محتوا مورد نظر اضافه شد");
+            }
+        });
+    });
+</script>

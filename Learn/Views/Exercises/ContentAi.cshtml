@@ -1,0 +1,64 @@
+﻿@model Learn.Models.ViewModels.ExerciseModel.ExerciseViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Exercise</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Exercise.ContentType" class="control-label"></label>
+                <select id="ContentType" asp-for="Exercise.ContentType" class="form-control">
+                    @foreach (var item in Model.ContentTypes)
+                    {
+                        <option>@item</option>
+                    }
+                </select>
+                <span asp-validation-for="Exercise.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Exercise.LessonId" class="control-label"></label>
+                <select asp-for="Exercise.LessonId" id="LessonId" class="form-control" asp-items="Model.Lessons"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" id="btnSave" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <h4>Put spaces (%p) before.</h4>
+        <div id="toolbar-container"></div>
+        <div id="editor"></div>
+    </div>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+
+<script type="text/javascript">
+    $("body").on("click", "#btnSave", function () {
+
+        var ExerciseModel = {
+            Type: 'ContentAi',
+            ContentType: $('#ContentType').find(":selected").val(),
+            LessonId: $('#LessonId').find(":selected").val(),
+            ModelContent: $(".ck-content").html(),
+        }
+
+        //Send the JSON array to Controller using AJAX.
+        $.ajax({
+            type: 'POST',
+            url: '@Model.BaseUrl/Exercises/Create',
+            data: { model: ExerciseModel},
+            success: function (r) {
+                alert("محتوا مورد نظر اضافه شد");
+            }
+        });
+    });
+</script>
