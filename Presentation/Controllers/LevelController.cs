@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.Dtos;
+using Presentation.Framework;
 using Presentation.Service;
 
 namespace Presentation.Controllers
 {
+    [ApiController]
     [Route("api/[controller]/[action]")]
     public class LevelController : ControllerBase
     {
@@ -15,11 +17,19 @@ namespace Presentation.Controllers
         }
 
         [HttpPost]
-        public async Task<List<LevelDto>> GetLevels(GetLevelDtoRequest dto)
+        public async Task<ApiResult<List<LevelDto>>> GetLevels(GetLevelsDtoRequest dto)
         {
             var res = await _levelLogic.GetLevels(dto.TeacherId);
 
-            return res;
+            return Ok(res);
+        }
+
+        [HttpPost]
+        public async Task<ApiResult<LevelDto>> GetLevel(GetLevelDtoRequest dto)
+        {
+            var res = await _levelLogic.GetLevel(dto.LevelId);
+
+            return Ok(res);
         }
     }
 }

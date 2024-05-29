@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Presentation.Context;
+using Presentation.Framework.Middlewares;
 using Presentation.Service;
 using System.Reflection;
 
@@ -15,6 +16,7 @@ var connectionString = builder.Configuration.GetConnectionString("LearnContext")
 builder.Services.AddDbContext<DBLearnContext>(x => x.UseSqlServer(connectionString));
 
 builder.Services.AddScoped<ILevelLogic, LevelLogic>();
+builder.Services.AddScoped<ILessonLogic, LessonLogic>();
 
 builder.Services.AddApiVersioning(options =>
 {
@@ -26,6 +28,8 @@ builder.Services.AddApiVersioning(options =>
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+app.UseCustomExceptionHandler();
 
 app.UseSwagger();
 app.UseSwaggerUI();

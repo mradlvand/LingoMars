@@ -1138,9 +1138,9 @@ C:\Users\EEZA\Downloads\Learning\Learning\Learn\obj\Release\net6.0\refint\Learn.
 C:\Users\EEZA\Downloads\Learning\Learning\Learn\obj\Release\net6.0\Learn.pdb
 C:\Users\EEZA\Downloads\Learning\Learning\Learn\obj\Release\net6.0\Learn.genruntimeconfig.cache
 C:\Users\EEZA\Downloads\Learning\Learning\Learn\obj\Release\net6.0\ref\Learn.dll
+D:\Repo\LingoMars\Learn\bin\Release\net6.0\web.config
 D:\Repo\LingoMars\Learn\bin\Release\net6.0\appsettings.Development.json
 D:\Repo\LingoMars\Learn\bin\Release\net6.0\appsettings.json
-D:\Repo\LingoMars\Learn\bin\Release\net6.0\web.config
 D:\Repo\LingoMars\Learn\bin\Release\net6.0\Learn.staticwebassets.runtime.json
 D:\Repo\LingoMars\Learn\bin\Release\net6.0\Learn.exe
 D:\Repo\LingoMars\Learn\bin\Release\net6.0\Learn.deps.json

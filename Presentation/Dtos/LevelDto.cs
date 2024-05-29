@@ -12,13 +12,17 @@ namespace Presentation.Dtos
         public string? Description { get; set; }
         public DateTime? CreationDateTime { get; set; }
         public DateTime? UpdateDateTime { get; set; }
-        public string? Icon { get; set; }
-        public string? Picture { get; set; }
+        public string? Video { get; set; }
         public bool Status { get; set; }
+    }
+
+    public class GetLevelsDtoRequest
+    {
+        public int TeacherId { get; set;}
     }
 
     public class GetLevelDtoRequest
     {
-        public int TeacherId { get; set;}
+        public int LevelId { get; set; }
     }
 }

@@ -13,5 +13,16 @@ namespace Presentation.Dtos
         public DateTime UpdateDateTime { get; set; }
         public string? Video { get; set; }
         public bool Status { get; set; }
+        public int LevelId { get; set; }
+    }
+
+    public class GetLessonsDtoRequest
+    {
+        public int LevelId { get; set; }
+    }
+
+    public class GetLessonDtoRequest
+    {
+        public int LessonId { get; set; }
     }
 }
