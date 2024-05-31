@@ -1,100 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|c:\\users\\eeza\\downloads\\learning\\learning\\learn\\controllers\\generalcontentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|solutionrelative:learn\\controllers\\generalcontentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|c:\\users\\eeza\\downloads\\learning\\learning\\learn\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|solutionrelative:learn\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|c:\\users\\eeza\\downloads\\learning\\learning\\learn\\views\\lessons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|solutionrelative:learn\\views\\lessons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|c:\\users\\eeza\\downloads\\learning\\learning\\learn\\models\\viewmodels\\lessonviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|solutionrelative:learn\\models\\viewmodels\\lessonviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|c:\\users\\eeza\\downloads\\learning\\learning\\learn\\views\\generalcontents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D744AD4C-5F9D-4DCC-87C2-49D7330F4BDA}|Learn\\Learn.csproj|solutionrelative:learn\\views\\generalcontents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "E:\\Project\\LingoMars\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Views\\Lessons\\Create.cshtml",
-              "RelativeDocumentMoniker": "Learn\\Views\\Lessons\\Create.cshtml",
-              "ToolTip": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Views\\Lessons\\Create.cshtml",
-              "RelativeToolTip": "Learn\\Views\\Lessons\\Create.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T16:17:57.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LessonViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Models\\ViewModels\\LessonViewModels.cs",
-              "RelativeDocumentMoniker": "Learn\\Models\\ViewModels\\LessonViewModels.cs",
-              "ToolTip": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Models\\ViewModels\\LessonViewModels.cs",
-              "RelativeToolTip": "Learn\\Models\\ViewModels\\LessonViewModels.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:16:13.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LessonsController.cs",
-              "DocumentMoniker": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Controllers\\LessonsController.cs",
-              "RelativeDocumentMoniker": "Learn\\Controllers\\LessonsController.cs",
-              "ToolTip": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Controllers\\LessonsController.cs",
-              "RelativeToolTip": "Learn\\Controllers\\LessonsController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:15:44.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GeneralContentsController.cs",
-              "DocumentMoniker": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Controllers\\GeneralContentsController.cs",
-              "RelativeDocumentMoniker": "Learn\\Controllers\\GeneralContentsController.cs",
-              "ToolTip": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Controllers\\GeneralContentsController.cs",
-              "RelativeToolTip": "Learn\\Controllers\\GeneralContentsController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:12:14.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Views\\GeneralContents\\Create.cshtml",
-              "RelativeDocumentMoniker": "Learn\\Views\\GeneralContents\\Create.cshtml",
-              "ToolTip": "C:\\Users\\EEZA\\Downloads\\Learning\\Learning\\Learn\\Views\\GeneralContents\\Create.cshtml",
-              "RelativeToolTip": "Learn\\Views\\GeneralContents\\Create.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T16:09:08.762Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

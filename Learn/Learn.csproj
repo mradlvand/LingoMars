@@ -327,20 +327,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Model\Model.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Files\Level\" />
     <Folder Include="Files\Lesson\" />
     <Folder Include="Files\Grammer\" />
     <Folder Include="Files\Exercise\" />
     <Folder Include="Files\Speaking\" />
     <Folder Include="Files\Vocab\" />
-    <Folder Include="Migrations\" />
     <Folder Include="wwwroot\assets\CKEditor\" />
     <Folder Include="wwwroot\images\levelsFile\" />
     <Folder Include="wwwroot\upload\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
   </ItemGroup>
 
 </Project>

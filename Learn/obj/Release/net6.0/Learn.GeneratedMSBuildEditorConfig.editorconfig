@@ -9,199 +9,199 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Learn
 build_property.RootNamespace = Learn
-build_property.ProjectDir = D:\Repo\LingoMars\Learn\
+build_property.ProjectDir = E:\Project\LingoMars\Learn\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Repo\LingoMars\Learn
+build_property.MSBuildProjectDirectory = E:\Project\LingoMars\Learn
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/ContentAi.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/ContentAi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXENvbnRlbnRBaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/CP.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/CP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXENQLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Delete.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Details.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Detect.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Detect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERldGVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/DragDrop.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/DragDrop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERyYWdEcm9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Edit.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/LetterAi.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/LetterAi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXExldHRlckFpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Multiple.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Multiple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXE11bHRpcGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Order.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXE9yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/Placement.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/Placement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXFBsYWNlbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/TextAi.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/TextAi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXFRleHRBaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/TrueFalse.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/TrueFalse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXFRydWVGYWxzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Exercises/VoiceAi.cshtml]
+[E:/Project/LingoMars/Learn/Views/Exercises/VoiceAi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXFZvaWNlQWkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/Create.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/DeleteGrammer.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/DeleteGrammer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXERlbGV0ZUdyYW1tZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/DeleteSpeak.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/DeleteSpeak.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXERlbGV0ZVNwZWFrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/DeleteVocab.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/DeleteVocab.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXERlbGV0ZVZvY2FiLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/Details.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/Edit.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/GeneralContents/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/GeneralContents/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbENvbnRlbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Home/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Home/Login.cshtml]
+[E:/Project/LingoMars/Learn/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Home/LoginError.cshtml]
+[E:/Project/LingoMars/Learn/Views/Home/LoginError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Home/Privacy.cshtml]
+[E:/Project/LingoMars/Learn/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Lessons/Create.cshtml]
+[E:/Project/LingoMars/Learn/Views/Lessons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Lessons/Delete.cshtml]
+[E:/Project/LingoMars/Learn/Views/Lessons/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Lessons/Details.cshtml]
+[E:/Project/LingoMars/Learn/Views/Lessons/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Lessons/Edit.cshtml]
+[E:/Project/LingoMars/Learn/Views/Lessons/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Lessons/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/Lessons/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Levels/Create.cshtml]
+[E:/Project/LingoMars/Learn/Views/Levels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Levels/Delete.cshtml]
+[E:/Project/LingoMars/Learn/Views/Levels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Levels/Details.cshtml]
+[E:/Project/LingoMars/Learn/Views/Levels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Levels/Edit.cshtml]
+[E:/Project/LingoMars/Learn/Views/Levels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Levels/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/Levels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Shared/Error.cshtml]
+[E:/Project/LingoMars/Learn/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Project/LingoMars/Learn/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Users/Create.cshtml]
+[E:/Project/LingoMars/Learn/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Users/Delete.cshtml]
+[E:/Project/LingoMars/Learn/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Users/Details.cshtml]
+[E:/Project/LingoMars/Learn/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Users/Edit.cshtml]
+[E:/Project/LingoMars/Learn/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Users/Index.cshtml]
+[E:/Project/LingoMars/Learn/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/_ViewImports.cshtml]
+[E:/Project/LingoMars/Learn/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/_ViewStart.cshtml]
+[E:/Project/LingoMars/Learn/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repo/LingoMars/Learn/Views/Shared/layoutBak/_Layout.cshtml]
+[E:/Project/LingoMars/Learn/Views/Shared/layoutBak/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dEJha1xfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-lzyuf17lx4
 
-[D:/Repo/LingoMars/Learn/Views/Shared/_Layout.cshtml]
+[E:/Project/LingoMars/Learn/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zitwrvbi67

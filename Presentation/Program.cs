@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
-using Presentation.Context;
 using Presentation.Framework.Middlewares;
 using Presentation.Service;
 using System.Reflection;
+using Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
