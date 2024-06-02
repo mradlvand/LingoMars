@@ -5,12 +5,15 @@ using Presentation.Framework.Middlewares;
 using Presentation.Service;
 using System.Reflection;
 using Data.Context;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+        .AddJsonOptions(options =>
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter()));
 
 var connectionString = builder.Configuration.GetConnectionString("LearnContext");
 builder.Services.AddDbContext<DBLearnContext>(x => x.UseSqlServer(connectionString));
