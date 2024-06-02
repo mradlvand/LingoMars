@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Model.General;
 
-namespace Model.Models
+namespace Presentation.Dtos
 {
     public class GrammerDto
     {
@@ -17,5 +12,15 @@ namespace Model.Models
         public DateTime UpdateDateTime { get; set; }
         public string? Video { get; set; }
         public bool Status { get; set; }
+    }
+
+    public class GetGrammersDtoRequest
+    {
+        public int LessonId { get; set; }
+    }
+
+    public class GetGrammerDtoRequest
+    {
+        public int GrammerId { get; set; }
     }
 }

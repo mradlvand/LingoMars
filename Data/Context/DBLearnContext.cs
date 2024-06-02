@@ -4,7 +4,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Model.Models;
 
-namespace Presentation.Context
+namespace Data.Context
 {
     public class DBLearnContext : DbContext
     {
@@ -19,18 +19,18 @@ namespace Presentation.Context
         public DbSet<Grammer> Grammers { get; set; }
         public DbSet<User> Users { get; set; }
 
-        public DbSet<Model.Models.Exercise>? Exercise { get; set; }
+        public DbSet<Exercise>? Exercise { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            var configuration = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json")
-                .Build();
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    var configuration = new ConfigurationBuilder()
+        //        .SetBasePath(Directory.GetCurrentDirectory())
+        //        .AddJsonFile("appsettings.json")
+        //        .Build();
 
-            var connectionString = configuration.GetConnectionString("LearnContext");
-            optionsBuilder.UseSqlServer(connectionString);
-        }
+        //    var connectionString = configuration.GetConnectionString("LearnContext");
+        //    optionsBuilder.UseSqlServer(connectionString);
+        //}
 
        
 

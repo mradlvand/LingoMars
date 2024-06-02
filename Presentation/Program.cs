@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
-using Presentation.Context;
 using Presentation.Framework.Middlewares;
 using Presentation.Service;
 using System.Reflection;
+using Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +17,9 @@ builder.Services.AddDbContext<DBLearnContext>(x => x.UseSqlServer(connectionStri
 
 builder.Services.AddScoped<ILevelLogic, LevelLogic>();
 builder.Services.AddScoped<ILessonLogic, LessonLogic>();
+builder.Services.AddScoped<IVocabLogic, VocabLogic>();
+builder.Services.AddScoped<IGrammerLogic, GrammerLogic>();
+builder.Services.AddScoped<ISpeakingLogic, SpeakingLogic>();
 
 builder.Services.AddApiVersioning(options =>
 {

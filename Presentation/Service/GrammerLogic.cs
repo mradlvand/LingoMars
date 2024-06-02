@@ -7,44 +7,42 @@ using System.Linq;
 
 namespace Presentation.Service
 {
-    public interface ILessonLogic
+    public interface IGrammerLogic
     {
-        Task<List<LessonDto>> GetLessons(int levelId);
-        Task<LessonDto> GetLesson(int lessonId);
+        Task<List<GrammerDto>> GetGrammers(int lessonId);
+        Task<GrammerDto> GetGrammer(int GrammerId);
     }
 
-    public class LessonLogic : ILessonLogic
+    public class GrammerLogic : IGrammerLogic
     {
         private readonly ILogger _logger;
         private readonly DBLearnContext _context;
 
-        public LessonLogic(DBLearnContext context, ILogger<LessonLogic> logger)
+        public GrammerLogic(DBLearnContext context, ILogger<GrammerLogic> logger)
         {
             _context = context;
             _logger = logger;
         }
 
-        public async Task<List<LessonDto>> GetLessons(int levelId)
+        public async Task<List<GrammerDto>> GetGrammers(int lessonId)
         {
             try
             {
-                if (levelId < 0)
+                if (lessonId < 0)
                     throw new BadRequestException("آیدی اشتباه می باشد.");
 
-                var lists = await _context.Lessons.AsQueryable().Where(x => x.LevelId == levelId).ToListAsync();
+                var lists = await _context.Grammers.AsQueryable().Where(x => x.LessonId == lessonId).ToListAsync();
 
-                var res = lists.Select(x => new LessonDto
+                var res = lists.Select(x => new GrammerDto
                 {
                     Id = x.Id,
-                    Title = x.Title,
+                    Context = x.Context,
+                    Header = x.Header,
                     CreationDateTime = x.CreationDateTime,
                     Description = x.Description,
                     Video = x.Video,
                     Status = x.Status,
                     UpdateDateTime = x.UpdateDateTime,
-                    Order = x.Order,
-                    StatusId = x.StatusId,
-                    LevelId = levelId
                 }).ToList();
 
                 return res;
@@ -55,16 +53,16 @@ namespace Presentation.Service
             }
         }
 
-        public async Task<LessonDto> GetLesson(int lessonId)
+        public async Task<GrammerDto> GetGrammer(int speakingId)
         {
-            if (lessonId < 0)
+            if (speakingId < 0)
                 throw new BadHttpRequestException("levelId is wrong.");
 
-            var resData = await _context.Lessons.FirstOrDefaultAsync(x => x.Id == lessonId);
+            var resData = await _context.Grammers.FirstOrDefaultAsync(x => x.Id == speakingId);
 
             if (resData != null)
             {
-                return new LessonDto()
+                return new GrammerDto()
                 {
                     Id = resData.Id,
                     CreationDateTime = resData.CreationDateTime,
@@ -72,10 +70,8 @@ namespace Presentation.Service
                     Video = resData.Video,
                     Status = resData.Status,
                     UpdateDateTime = resData.UpdateDateTime,
-                    Order = resData.Order,
-                    Title = resData.Title,
-                    LevelId = resData.LevelId,
-                    StatusId = resData.StatusId,
+                    Header = resData.Header,
+                    Context = resData.Context,
                 };
             }
             else

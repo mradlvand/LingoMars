@@ -1,4 +1,4 @@
-﻿using Learn.Context;
+﻿using Data.Context;
 using Learn.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

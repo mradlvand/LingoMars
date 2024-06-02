@@ -11,4 +11,14 @@
         public string? Video { get; set; }
         public bool Status { get; set; }
     }
+
+    public class GetSpeakingsDtoRequest
+    {
+        public int LessonId { get; set; }
+    }
+
+    public class GetSpeakingDtoRequest
+    {
+        public int SpeakingId { get; set; }
+    }
 }

@@ -7,44 +7,42 @@ using System.Linq;
 
 namespace Presentation.Service
 {
-    public interface ILessonLogic
+    public interface IVocabLogic
     {
-        Task<List<LessonDto>> GetLessons(int levelId);
-        Task<LessonDto> GetLesson(int lessonId);
+        Task<List<VocabularyDto>> GetVocabs(int lessonId);
+        Task<VocabularyDto> GetVocab(int lessonId);
     }
 
-    public class LessonLogic : ILessonLogic
+    public class VocabLogic : IVocabLogic
     {
         private readonly ILogger _logger;
         private readonly DBLearnContext _context;
 
-        public LessonLogic(DBLearnContext context, ILogger<LessonLogic> logger)
+        public VocabLogic(DBLearnContext context, ILogger<VocabLogic> logger)
         {
             _context = context;
             _logger = logger;
         }
 
-        public async Task<List<LessonDto>> GetLessons(int levelId)
+        public async Task<List<VocabularyDto>> GetVocabs(int lessonId)
         {
             try
             {
-                if (levelId < 0)
+                if (lessonId < 0)
                     throw new BadRequestException("آیدی اشتباه می باشد.");
 
-                var lists = await _context.Lessons.AsQueryable().Where(x => x.LevelId == levelId).ToListAsync();
+                var lists = await _context.Vocabularies.AsQueryable().Where(x => x.LessonId == lessonId).ToListAsync();
 
-                var res = lists.Select(x => new LessonDto
+                var res = lists.Select(x => new VocabularyDto
                 {
                     Id = x.Id,
-                    Title = x.Title,
+                    Context = x.Context,
+                    Header = x.Header,
                     CreationDateTime = x.CreationDateTime,
                     Description = x.Description,
                     Video = x.Video,
                     Status = x.Status,
                     UpdateDateTime = x.UpdateDateTime,
-                    Order = x.Order,
-                    StatusId = x.StatusId,
-                    LevelId = levelId
                 }).ToList();
 
                 return res;
@@ -55,16 +53,16 @@ namespace Presentation.Service
             }
         }
 
-        public async Task<LessonDto> GetLesson(int lessonId)
+        public async Task<VocabularyDto> GetVocab(int vocabId)
         {
-            if (lessonId < 0)
+            if (vocabId < 0)
                 throw new BadHttpRequestException("levelId is wrong.");
 
-            var resData = await _context.Lessons.FirstOrDefaultAsync(x => x.Id == lessonId);
+            var resData = await _context.Vocabularies.FirstOrDefaultAsync(x => x.Id == vocabId);
 
             if (resData != null)
             {
-                return new LessonDto()
+                return new VocabularyDto()
                 {
                     Id = resData.Id,
                     CreationDateTime = resData.CreationDateTime,
@@ -72,10 +70,8 @@ namespace Presentation.Service
                     Video = resData.Video,
                     Status = resData.Status,
                     UpdateDateTime = resData.UpdateDateTime,
-                    Order = resData.Order,
-                    Title = resData.Title,
-                    LevelId = resData.LevelId,
-                    StatusId = resData.StatusId,
+                    Header = resData.Header,
+                    Context = resData.Context,
                 };
             }
             else
