@@ -1,0 +1,79 @@
+﻿@model LearnCourse.Models.ViewModels.CreateLevelViewModels
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Level</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Level.Id" />
+            <input type="hidden" asp-for="Level.TeacherId" />
+            <input type="hidden" asp-for="Level.CreationDateTime" />
+            <div class="form-group">
+                <label asp-for="Level.Title" class="control-label"></label>
+                <input asp-for="Level.Title" class="form-control" />
+                <span asp-validation-for="Level.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Level.Order" class="control-label"></label>
+                <input asp-for="Level.Order" class="form-control" />
+                <span asp-validation-for="Level.Order" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Level.CategoryId" class="control-label"></label>
+                <select asp-for="Level.CategoryId" class="form-control">
+                    @foreach (var item in Model.Categories)
+                    {
+                        if (item == Model.Level.CategoryId)
+                        {
+                            <option selected = "selected">@item</option>
+                        }
+                        else
+                        {
+                            <option>@item</option>
+                        }    
+                    }
+                </select>
+                <span asp-validation-for="Level.CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Level.Description" class="control-label"></label>
+                <input asp-for="Level.Description" class="form-control" />
+                <span asp-validation-for="Level.Description" class="text-danger"></span>
+            </div>
+            @if (Model.UserRole.ToString() == "Admin")
+            {
+                <div class="form-group">
+                    <label asp-for="Icon" class="control-label"></label>
+                    <input asp-for="Icon" type="file" class="form-control" />
+                    <span asp-validation-for="Icon" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Picture" class="control-label"></label>
+                    <input asp-for="Picture" type="file" class="form-control" />
+                    <span asp-validation-for="Picture" class="text-danger"></span>
+                </div>
+            }
+            <input asp-for="Level.Icon" class="form-control" hidden />
+            <input asp-for="Level.Picture" class="form-control" hidden />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} *@

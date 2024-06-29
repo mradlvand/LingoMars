@@ -1,0 +1,95 @@
+﻿@model LearnCourse.Models.ViewModels.LessonViewModelsIndex
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Lesson.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lesson.Order)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Lesson.Description)
+            </th>
+            @if (Model.UserRole.ToString() == "Admin")
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.Lesson.CreationDateTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Lesson.UpdateDateTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Lesson.Video)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Lesson.Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Lesson.StatusId)
+                </th>
+            }
+            <th>
+                @Html.DisplayNameFor(model => model.Lesson.Level)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Lessons)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order)
+                </td>
+            
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                @if (Model.UserRole.ToString() == "Admin")
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreationDateTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UpdateDateTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Video)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusId)
+                    </td>
+                }
+                <td>
+                    @Html.DisplayFor(modelItem => item.Level.Title)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                    <a asp-action="Index" asp-controller="Exercises" asp-route-lessonId="@item.Id">Exercises</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

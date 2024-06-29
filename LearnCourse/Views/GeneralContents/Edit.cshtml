@@ -1,0 +1,134 @@
+﻿@model LearnCourse.Models.ViewModels.GeneralContentViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .ck-editor__editable_inline {
+        min-height: 400px;
+    }
+</style>
+
+<h4>@Model.PageModel.Title</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" id="GeneralContentId" asp-for="GeneralContent.Id" />
+        <div class="form-group">
+            <label asp-for="GeneralContent.LessonId" class="control-label"></label>
+            <select asp-for="GeneralContent.LessonId" id="LessonId" class="form-control" asp-items="Model.Lessons"></select>
+        </div>
+        <div class="form-group">
+            <label asp-for="GeneralContent.Header" class="control-label"></label>
+            <input asp-for="GeneralContent.Header" id="Header" class="form-control" />
+            <span asp-validation-for="GeneralContent.Header" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="GeneralContent.Description" class="control-label"></label>
+            <input asp-for="GeneralContent.Description" id="Description" class="form-control" />
+            <span asp-validation-for="GeneralContent.Description" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <form id="fileUploadForm" method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="FileUpload">
+                <input type="file" id="uploadFile" name="uploadFile" />
+                <input type="submit" value="upload" />
+
+                <div>
+                    <br />
+                    <div id="messageDiv" style="font-weight:bold; color:green"></div>
+                    <strong hidden><span id="fileNameSpan">@Model.GeneralContent.Video</span></strong>
+                </div>
+            </form>
+        </div>
+        <div class="form-group">
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Create" id="btnSave" class="btn btn-primary" />
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div id="toolbar-container"></div>
+        <div id="editor">@Model.GeneralContent.Context</div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+
+<script>
+    $(function () {
+        $("#fileUploadForm").submit(function (e) {
+            e.preventDefault();
+
+            var data = new FormData();
+            data.append("formFile", $("#uploadFile")[0].files[0]);
+
+            $.ajax({
+                type: 'post',
+                url: "@Model.BaseUrl/Home/FileUpload",
+                data: data,
+                processData: false,
+                contentType: false
+            }).done(function (result) {
+                if (result.status === "success") {
+                    $("#fileNameSpan").html(result.fileName);
+                    $("#messageDiv").html("فایل آپلود شد");
+                }
+                else {
+                    alert(result.status);
+                }
+            });
+        });
+    })
+</script>
+<script>
+    var myEditor;
+
+    ClassicEditor
+        .create(document.querySelector('#editor'))
+        .then(editor => {
+            console.log('Editor was initialized', editor);
+            myEditor = editor;
+        })
+        .catch(error => {
+            console.error(error);
+        });
+</script>
+<script type="text/javascript">
+    $("body").on("click", "#btnSave", function () {
+        var GeneralContentSample = new Array();
+        $("#tblCustomers TBODY TR").each(function () {
+            var row = $(this);
+            var Sample = {};
+            Sample.Sentence = row.find("TD").eq(0).html();
+            Sample.PersianTranslation = row.find("TD").eq(1).html();
+            GeneralContentSample.push(Sample);
+        });
+
+        var GeneralContent = {
+            Header: $("#Header").val(),
+            Context: myEditor.getData(),
+            Description: $("#Description").val(),
+            Video: $("#fileNameSpan").text(),
+            LessonId: $('#LessonId').find(":selected").val(),
+            Id: $("#GeneralContentId").val(),
+        }
+
+        //Send the JSON array to Controller using AJAX.
+        $.ajax({
+            type: 'POST',
+            url: '@Model.BaseUrl/GeneralContents/Edit',
+            data: { model: GeneralContent, samples: GeneralContentSample },
+            success: function (r) {
+                alert("محتوا مورد نظر اضافه شد");
+            }
+        });
+    });
+</script>

@@ -9,8 +9,8 @@ using Data.Context;
 using Model.Models;
 using Model.General;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Learn.Models.ViewModels.ExerciseModel;
-using Learn.Common;
+using LearnCourse.Models.ViewModels.ExerciseModel;
+using LearnCourse.Common;
 using Microsoft.AspNetCore.Authorization;
 using Learn.Models.ViewModels;
 
