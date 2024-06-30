@@ -23,6 +23,7 @@ builder.Services.AddScoped<ILessonLogic, LessonLogic>();
 builder.Services.AddScoped<IVocabLogic, VocabLogic>();
 builder.Services.AddScoped<IGrammerLogic, GrammerLogic>();
 builder.Services.AddScoped<ISpeakingLogic, SpeakingLogic>();
+builder.Services.AddScoped<IUserLogic, UserLogic>();
 
 builder.Services.AddApiVersioning(options =>
 {

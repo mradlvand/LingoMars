@@ -18,8 +18,8 @@ namespace Data.Context
         public DbSet<Speaking> Speakings { get; set; }
         public DbSet<Grammer> Grammers { get; set; }
         public DbSet<User> Users { get; set; }
-
         public DbSet<Exercise>? Exercise { get; set; }
+        public DbSet<UserProgress> UserProgresses { get; set; }
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{

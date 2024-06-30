@@ -10,13 +10,23 @@ namespace Presentation.Controllers
     [Route("api/[controller]/[action]")]
     public class UserController : ControllerBase
     {
-        public UserController()
+        private readonly IUserLogic _userLogic;
+        public UserController(IUserLogic logic)
         {
+            _userLogic = logic;
         }
 
         [HttpPost]
         public async Task<ApiResult> Login(LoginDto dto)
         {
+            return Ok();
+        }
+
+        [HttpPost]
+        public async Task<ApiResult> Register(RegisterDto dto)
+        {
+            await _userLogic.Register(dto);
+
             return Ok();
         }
     }

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Model.General
 {
-    public enum UserRole
+    public enum UserProgressType
     {
         None = 0,
-        Admin = 1,
-        Teacher = 2,
-        User = 3,
+        ShowVideo = 1,
+        UseApp = 2
     }
 }
