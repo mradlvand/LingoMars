@@ -23,11 +23,11 @@ namespace Presentation.Controllers
         }
 
         [HttpPost]
-        public async Task<ApiResult> Register(RegisterDto dto)
+        public async Task<ApiResult<RegisterDtoResponce>> Register(RegisterDto dto)
         {
-            await _userLogic.Register(dto);
+            var res = await _userLogic.Register(dto);
 
-            return Ok();
+            return Ok(res);
         }
     }
 }

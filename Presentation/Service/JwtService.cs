@@ -1,52 +1,35 @@
-﻿using Humanizer;
-using Learn.Models.Aut;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
-using Model.General;
+﻿using Common.Exceptions;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using Data.Context;
+using Presentation.Dtos;
+using System.Linq;
 using Model.Models;
-using System.Data;
+using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Presentation.Models.Aut;
 
-namespace Learn.Controllers
+namespace Presentation.Service
 {
-    public abstract class BaseController : Controller
+    public interface IJwtService
     {
-        protected Category GetUserCategory()
+        Task<string> CreateToken(User user);
+    }
+
+    public class JwtService : IJwtService
+    {
+        private readonly ILogger _logger;
+        private readonly DBLearnContext _context;
+
+        public JwtService(DBLearnContext context, ILogger<GrammerLogic> logger)
         {
-            var identity = HttpContext.User.Identity as ClaimsIdentity;
-
-            var categoryClaim = identity.FindFirst("UserCategory").Value; // this.User.Claims.First(i => i.Type == "UserCategory").Value;
-
-            Category category = (Category)Enum.Parse(typeof(Category), categoryClaim, true);
-
-            return category;
+            _context = context;
+            _logger = logger;
         }
 
-        protected UserRole GetUserRole()
-        {
-            var roleClaim = this.User.Claims.First(i => i.Type == "Role").Value;
-
-            var userRole = (UserRole)Enum.Parse(typeof(UserRole), roleClaim, true);
-
-            return userRole;
-        }
-
-        protected int GetUserId()
-        {
-            int userId = Convert.ToInt32(this.User.Claims.First(i => i.Type == "UserId").Value);
-
-            return userId;
-        }
-
-        protected string GetUserName()
-        {
-            return this.User.Claims.First(i => i.Type == "UserName").Value;
-        }
-
-
-        public async Task CreateAuthenticationTicket(User user)
+        public async Task<string> CreateToken(User user)
         {
             var key = Encoding.ASCII.GetBytes(SiteKeys.Token);
             var JWToken = new JwtSecurityToken(
@@ -59,7 +42,9 @@ namespace Learn.Controllers
             );
 
             var token = new JwtSecurityTokenHandler().WriteToken(JWToken);
-            HttpContext.Session.SetString("JWToken", token);
+
+            return token;
+            //HttpContext.Session.SetString("JWToken", token);
         }
 
 
@@ -83,12 +68,6 @@ namespace Learn.Controllers
             claims.Add(_claim);
 
             return claims.AsEnumerable<Claim>();
-        }
-
-        public struct Role
-        {
-            public const string Admin = "Admin";
-            public const string Teacher = "Teacher";
         }
     }
 }

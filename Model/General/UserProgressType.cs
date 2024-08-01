@@ -9,7 +9,7 @@ namespace Model.General
     public enum UserProgressType
     {
         None = 0,
-        ShowVideo = 1,
+        WatchVideo = 1,
         UseApp = 2
     }
 }

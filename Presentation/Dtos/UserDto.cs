@@ -13,11 +13,12 @@ namespace Presentation.Dtos
     public class RegisterDto
     {
         public string PhoneNumber { get; set; }
-        public Category Category { get; set; }
+        public Category ApplicationType { get; set; }
     }
 
     public class RegisterDtoResponce
     {
+        public string Token { get; set; }
     }
 
 }

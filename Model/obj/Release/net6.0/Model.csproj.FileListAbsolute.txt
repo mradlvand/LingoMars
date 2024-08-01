@@ -70,3 +70,15 @@ D:\Repo\LingoMars\Model\obj\Release\net6.0\Model.dll
 D:\Repo\LingoMars\Model\obj\Release\net6.0\refint\Model.dll
 D:\Repo\LingoMars\Model\obj\Release\net6.0\Model.pdb
 D:\Repo\LingoMars\Model\obj\Release\net6.0\ref\Model.dll
+E:\LingoMars\Model\bin\Release\net6.0\Model.deps.json
+E:\LingoMars\Model\bin\Release\net6.0\Model.dll
+E:\LingoMars\Model\bin\Release\net6.0\Model.pdb
+E:\LingoMars\Model\obj\Release\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\LingoMars\Model\obj\Release\net6.0\Model.AssemblyInfoInputs.cache
+E:\LingoMars\Model\obj\Release\net6.0\Model.AssemblyInfo.cs
+E:\LingoMars\Model\obj\Release\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\LingoMars\Model\obj\Release\net6.0\Model.sourcelink.json
+E:\LingoMars\Model\obj\Release\net6.0\Model.dll
+E:\LingoMars\Model\obj\Release\net6.0\refint\Model.dll
+E:\LingoMars\Model\obj\Release\net6.0\Model.pdb
+E:\LingoMars\Model\obj\Release\net6.0\ref\Model.dll
