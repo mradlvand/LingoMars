@@ -3,6 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using System.Security.Claims;
 using Model.General;
+using Common.Exceptions;
+using Data.Context;
+using Microsoft.VisualBasic;
+using System.Net.Mail;
+using Microsoft.EntityFrameworkCore;
 
 namespace Presentation.Models.Aut
 {
@@ -16,10 +21,12 @@ namespace Presentation.Models.Aut
     public class AuthorizeFilter : IAuthorizationFilter
     {
         readonly string[] _claim;
+        private readonly DBLearnContext _context;
 
-        public AuthorizeFilter(params string[] claim)
+        public AuthorizeFilter(DBLearnContext context, params string[] claim)
         {
             _claim = claim;
+            _context = context;
         }
 
         public void OnAuthorization(AuthorizationFilterContext context)
@@ -29,20 +36,23 @@ namespace Presentation.Models.Aut
 
             if (IsAuthenticated)
             {
-                bool flagClaim = false;
-                foreach (var item in _claim)
+                var macAddress = claimsIndentity.FindFirst("MacAddress");
+
+                var userId = Convert.ToInt64(claimsIndentity.FindFirst("UserId").Value);
+
+                var findUser = _context.Users.FirstOrDefault(x => x.Id == userId);
+
+                if (findUser == null)
+                    throw new UnauthorizedException("خطای احراز هویت");
+
+                if (findUser != null && findUser.MacAddress != macAddress.Value)
                 {
-                    if (context.HttpContext.User.HasClaim("Role", item))
-                        flagClaim = true;
-                }
-                if (!flagClaim)
-                {
-                    context.Result = new RedirectResult("~/Login/Index");
+                    throw new UnauthorizedException("خطای احراز هویت");
                 }
             }
             else
             {
-                context.Result = new RedirectResult("~/Login/Index");
+                throw new UnauthorizedException("خطای احراز هویت");
             }
             return;
         }

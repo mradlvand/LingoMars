@@ -9,8 +9,8 @@ using Data.Context;
 using Model.Models;
 using Learn.Models.ViewModels;
 using Model.General;
-using Microsoft.AspNetCore.Authorization;
 using Learn.Common;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Learn.Controllers
 {

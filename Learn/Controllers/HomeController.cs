@@ -53,6 +53,7 @@ namespace Learn.Controllers
                 if (admin != null)
                 {
                     _ = CreateAuthenticationTicket(admin);
+
                     return RedirectToAction("Index", "Levels");
                 }
                 else

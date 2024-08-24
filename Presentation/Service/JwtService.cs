@@ -21,11 +21,9 @@ namespace Presentation.Service
     public class JwtService : IJwtService
     {
         private readonly ILogger _logger;
-        private readonly DBLearnContext _context;
 
-        public JwtService(DBLearnContext context, ILogger<GrammerLogic> logger)
+        public JwtService(ILogger<GrammerLogic> logger)
         {
-            _context = context;
             _logger = logger;
         }
 

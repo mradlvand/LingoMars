@@ -10,12 +10,12 @@ using Model.Models;
 using Learn.Models.ViewModels;
 using System.Drawing;
 using Learn.Common;
-using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
 using Humanizer.Inflections;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Xml.Linq;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Learn.Controllers
 {

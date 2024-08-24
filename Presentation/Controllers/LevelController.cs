@@ -2,10 +2,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Presentation.Dtos;
 using Presentation.Framework;
+using Presentation.Models.Aut;
 using Presentation.Service;
 
 namespace Presentation.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]/[action]")]
     public class LevelController : ControllerBase

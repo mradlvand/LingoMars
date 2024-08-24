@@ -11,8 +11,8 @@ using Model.General;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Learn.Models.ViewModels.ExerciseModel;
 using Learn.Common;
-using Microsoft.AspNetCore.Authorization;
 using Learn.Models.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Learn.Controllers
 {

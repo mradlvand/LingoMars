@@ -14,6 +14,7 @@ namespace Model.Models
         public string? LastName { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
+        public string MacAddress { get; set; }
         public DateTime UpdateTime { get; set; }
         public UserRole Role { get; set; }
         public Category UserCategory { get; set; }

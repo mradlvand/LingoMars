@@ -16,6 +16,8 @@
     <link href="https://panel.lingomars.ir/assets/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
     <link href="https://panel.lingomars.ir/css/style.css" rel="stylesheet">
     <link href="https://panel.lingomars.ir/css/colors/default.css" id="theme" rel="stylesheet">
+    <link href="/assets/CKEditor/ckeditor5.css" rel="stylesheet" />
+    <a href="/assets/CKEditor/ckeditor5.css.map">/assets/ckeditor/ckeditor5.css.map</a>
     <style>
         .ck-editor__editable_inline {
             min-height: 400px;
@@ -92,38 +94,45 @@
     <script src="https://panel.lingomars.ir/assets/node_modules/jquery/jquery.min.js"></script>
     <script src="https://panel.lingomars.ir/assets/node_modules/bootstrap/js/popper.min.js"></script>
     <script src="https://panel.lingomars.ir/assets/node_modules/bootstrap/js/bootstrap.min.js"></script>
-    <script src="https://panel.lingomars.ir/assets/ckeditor/ckeditor.js"></script>
     <script src="https://panel.lingomars.ir/js/perfect-scrollbar.jquery.min.js"></script>
     <script src="https://panel.lingomars.ir/js/waves.js"></script>
     <script src="https://panel.lingomars.ir/js/sidebarmenu.js"></script>
     <script src="https://panel.lingomars.ir/js/custom.min.js"></script>
-@*     <script>
+
+    <script type="importmap">
+        {
+            "imports": {
+                "ckeditor5": "../../assets/CKEditor/ckeditor5.js",
+                "ckeditor5/": "../../assets/CKEditor/"
+            }
+        }
+    </script>
+    <script type="module">
+        import {
+            ClassicEditor,
+            Essentials,
+            Paragraph,
+            Bold,
+            Italic,
+            Font
+        } from 'ckeditor5';
+
         ClassicEditor
             .create(document.querySelector('#editor'), {
+                plugins: [Essentials, Paragraph, Bold, Italic, Font],
                 toolbar: [
-                    'heading', '|', 'alignment:left', 'alignment:right', 'alignment:center', 'alignment:justify'
+                    'undo', 'redo', '|', 'heading', '|', 'bold', 'italic', '|',
+                    'fontSize', 'fontFamily', 'fontColor', 'fontBackgroundColor'
                 ]
             })
             .then(editor => {
-                console.log('Editor was initialized', editor);
-                myEditor = editor;
-            })
-            .catch(error => {
-                console.error(error);
-            });
-    </script> *@
-    <script>
-        DecoupledEditor
-            .create(document.querySelector('#editor'))
-            .then(editor => {
-                const toolbarContainer = document.querySelector('#toolbar-container');
-
-                toolbarContainer.appendChild(editor.ui.view.toolbar.element);
+                window.editor = editor;
             })
             .catch(error => {
                 console.error(error);
             });
     </script>
+
 </body>
 
 </html>

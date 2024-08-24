@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LingoMars\\Learn\\Learn.csproj": {}
+    "D:\\Repo\\LingoMars\\Learn\\Learn.csproj": {}
   },
   "projects": {
-    "E:\\LingoMars\\Data\\Data.csproj": {
+    "D:\\Repo\\LingoMars\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LingoMars\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Repo\\LingoMars\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\LingoMars\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\EEZA\\.nuget\\packages\\",
-        "outputPath": "E:\\LingoMars\\Data\\obj\\",
+        "projectPath": "D:\\Repo\\LingoMars\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\LingoMars\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EEZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\LingoMars\\Model\\Model.csproj": {
-                "projectPath": "E:\\LingoMars\\Model\\Model.csproj"
+              "D:\\Repo\\LingoMars\\Model\\Model.csproj": {
+                "projectPath": "D:\\Repo\\LingoMars\\Model\\Model.csproj"
               }
             }
           }
@@ -39,11 +43,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,21 +86,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\LingoMars\\Learn\\Learn.csproj": {
+    "D:\\Repo\\LingoMars\\Learn\\Learn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LingoMars\\Learn\\Learn.csproj",
+        "projectUniqueName": "D:\\Repo\\LingoMars\\Learn\\Learn.csproj",
         "projectName": "Learn",
-        "projectPath": "E:\\LingoMars\\Learn\\Learn.csproj",
-        "packagesPath": "C:\\Users\\EEZA\\.nuget\\packages\\",
-        "outputPath": "E:\\LingoMars\\Learn\\obj\\",
+        "projectPath": "D:\\Repo\\LingoMars\\Learn\\Learn.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\LingoMars\\Learn\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EEZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\LingoMars\\Data\\Data.csproj": {
-                "projectPath": "E:\\LingoMars\\Data\\Data.csproj"
+              "D:\\Repo\\LingoMars\\Data\\Data.csproj": {
+                "projectPath": "D:\\Repo\\LingoMars\\Data\\Data.csproj"
               }
             }
           }
@@ -126,11 +129,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -193,21 +191,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\LingoMars\\Model\\Model.csproj": {
+    "D:\\Repo\\LingoMars\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LingoMars\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Repo\\LingoMars\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\LingoMars\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\EEZA\\.nuget\\packages\\",
-        "outputPath": "E:\\LingoMars\\Model\\obj\\",
+        "projectPath": "D:\\Repo\\LingoMars\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\LingoMars\\Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EEZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,11 +230,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -254,7 +251,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

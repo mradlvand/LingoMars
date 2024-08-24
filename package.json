@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ckeditor5": "^43.0.0",
     "froala-editor": "^4.2.0"
   }
 }

@@ -10,10 +10,10 @@ using Model.Models;
 using Learn.Models.Dto;
 using Model.General;
 using Learn.Models.ViewModels;
-using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using Learn.Common;
 using System.Security.Principal;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Learn.Controllers
 {
