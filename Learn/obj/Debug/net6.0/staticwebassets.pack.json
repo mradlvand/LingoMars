@@ -1189,6 +1189,30 @@
       "PackagePath": "staticwebassets\\assets\\New folder\\translations\\zh.js"
     },
     {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\custom-select.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\custom-select.png"
+    },
+    {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\favicon.png"
+    },
+    {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\logo-light-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\logo-light-icon.png"
+    },
+    {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\logo-light-text.png"
+    },
+    {
+      "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\baklogo\\logo-text.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baklogo\\logo-text.png"
+    },
+    {
       "Id": "D:\\Repo\\LingoMars\\Learn\\wwwroot\\assets\\images\\big\\Thumbs.db",
       "PackagePath": "staticwebassets\\assets\\images\\big\\Thumbs.db"
     },
